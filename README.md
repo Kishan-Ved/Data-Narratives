@@ -1,5 +1,5 @@
 # Data-Narratives
-Analysis of highly complex real life data and its organization using Numpy, Pandas, Python and Matplotlib.
+Analysis of highly complex real life data and its organization using Numpy, Pandas, Python and Matplotlib. Refer to the .pdf files for reports and .ipynb files for the code.
 
 Data Narrative 1 (DN 1) - Goodbooks Data Narrative
 
